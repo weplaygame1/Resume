@@ -15,7 +15,7 @@ UI/UX, 애니메이션, 연출 및 렌더링에 관심이 많은 개발자
 ## Experience
 **클라이언트 개발자 @ GOLFZON (2021.09 – 현재)**  
 - Unreal Engine 기반 골프 시뮬레이션 클라이언트 개발  
-- 참여 프로젝트: CITY GOLF, TWOVISION NX, M1 PROJECT,   
+- 참여 프로젝트: CITY GOLF, TWOVISION NX, M1 PROJECT  
 
 ---
 
@@ -34,8 +34,10 @@ UE5 기반 하이브리드 골프 시뮬레이터 (2024.09 출시)
 
 ## TWOVISION NX (2021.09 – 현재)
 UE5 기반 골프 시뮬레이터 (2023.08 출시)
-- 핵심 콘텐츠 개발 : 대회 시스템, 야간모드, 연습장, TOD 시스템, 옵션/보안 시스템  
-- UI 개발 : Draw Line 활용 그라데이션 표현, 대진표 UI 라인 애니메이션 연출  
+- 핵심 콘텐츠 개발 : 대회 시스템, 야간모드, 연습장, TOD 시스템
+- 게임 설정 시스템 : 옵션 프레임워크 설계 및 구현
+- 옵션 파일 보호 : INI 파일 암호화/복호화 기능을 추가하여 로컬 저장 파일의 보안 강화  
+- UI 개발 : Draw Line 활용 그라데이션 라인 표현, 대진표 UI 라인 애니메이션 연출  
 - 최적화 : 빌드 용량 55GB → 35GB 축소, 렌더링 성능 개선
 - 엔진 작업 : UE5.1 → UE5.3 업그레이드 작업, 쿠킹 에러 수정, 엔진 코드 분석 및 수정  
 - 라이브 서비스 이슈 대응  
@@ -56,7 +58,7 @@ UE4 기반 언리얼 모바일 프로젝트
 
 ## Skills
 - **Languages**: C++  
-- **Engines**: Unreal Engine (UMG, Slate, Niagara)
+- **Engines**: Unreal Engine (UMG, Slate, Niagara, Material)
 - **Tools**: Perforce, Redmine
 - **Focus Areas**: UI/UX, Rendering, Optimization
  
