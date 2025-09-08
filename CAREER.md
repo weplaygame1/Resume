@@ -3,7 +3,7 @@
 ---
 
 ## Experience
-**클라이언트 개발자 @ GOLFZON (2021.09 – 현재)**  
+**클라이언트 개발자 @ GOLFZON (2021.06 – 현재)**  
 - Unreal Engine 기반 골프 시뮬레이션 클라이언트 개발  
 - 참여 프로젝트: M1 PROJECT, TWOVISION NX, CITY GOLF  
 
