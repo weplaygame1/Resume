@@ -63,6 +63,4 @@ UE4 기반 모바일 프로젝트
 ## Skills
 - **Languages**: C++  
 - **Engines**: Unreal Engine (UMG, Slate, Niagara, Material)
-- **Tools**: Perforce, Redmine
-- **Focus Areas**: UI/UX, Rendering, Optimization
- 
+- **Tools**: Perforce, Sentry, Redmine 
